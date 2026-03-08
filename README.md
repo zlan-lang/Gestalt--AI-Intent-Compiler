@@ -1,6 +1,6 @@
 # Gestalt Chrome Extension
 
-Gestalt - AI 意图编译器 Chrome 插件版本
+Gestalt - 意图编译器 Chrome 插件版本
 
 ## 功能特性
 
